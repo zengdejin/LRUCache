@@ -1,4 +1,3 @@
-package com.yy.game.gop.util;
 
 import java.util.*;
 
